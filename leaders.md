@@ -1,4 +1,3 @@
 ### Leaders
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
+* [Pallab Jyoti Borah](mailto:pallab.jyotiborah@owasp.org)
+* [Lakshya Jyoti Borah](mailto:lakshya.jyotiborah@owasp.org)
