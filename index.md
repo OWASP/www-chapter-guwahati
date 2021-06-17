@@ -18,9 +18,8 @@ OWASP Guwahati is a local chapter of OWASP for Guwahati,Assam. Here we discuss v
 We welcome all the security & pentesters to this amazing community. You can join us through our various social media handles.
 
 ### Like OWASP GUWAHATI for event updates and more on Facebook, Twitter & Instagram handles<br>
-**[OWASP Guwahati Facebook Page](https://www.facebook.com/OwaspCuttack/)**<br>
-**[OWASP Guwahati Twitter handle](https://www.facebook.com/OwaspCuttack/)**<br>
-**[OWASP Guwahati Instagram handle](https://www.facebook.com/OwaspCuttack/)**
+**[OWASP Guwahati Facebook Page](https://www.facebook.com/OWASP-Guwahati-104276475234433)**<br>
+**[OWASP Guwahati Instagram handle](https://www.instagram.com/owasp_guwahati/)**
 
 ## Welcome
 OWASP Guwahati Chapter was founded by a group of security passionated engineers to share the knowledge for cyber security.We are organising meet ups and webinar on web,API, Mobile & Cloud security.
