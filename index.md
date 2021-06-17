@@ -12,7 +12,7 @@ Postal Code: 781006
 
 <div style='color:black;'>
 
-OWASP Guwahati is a local chapter of OWASP for Guwahati,Assam. Here we discuss various security & vulnerabilities of web application, API, Mobile & other devices.We  share tools and techniques related to web application security. The main aim of creating this community to bring all the cyber security expert together. So let’s get together and move for securing web applications.OWASp Guwahati chapter leader are [Lakshya jyoti bora](mailto:lakshya.jyotiborah@owasp.org) And [Pallab jyoti Borah]:mailto:pallab.jyotiborah@owasp.org
+OWASP Guwahati is a local chapter of OWASP for Guwahati,Assam. Here we discuss various security & vulnerabilities of web application, API, Mobile & other devices.We  share tools and techniques related to web application security. The main aim of creating this community to bring all the cyber security expert together. So let’s get together and move for securing web applications.OWASp Guwahati chapter leader are [Lakshya jyoti bora](mailto:lakshya.jyotiborah@owasp.org) And [Pallab Jyoti Borah](mailto:pallab.jyotiborah@owasp.org)
 </div>
 
 ## Welcome
