@@ -1,16 +1,18 @@
 ---
 
 layout: col-sidebar
-title: OWASP Tezpur
-tags: example-tag
+title: OWASP Guwahati
+tags: owasp guwahati
 region: Asia
-meetup-group:
+meetup-group: Owasp_Guwahati
 
 ---
 
 <div style='color:red;'>
 
-This is an example of a Project or Chapter Page.  Please change these items to indicate the actual information you wish to present.  In addition to this information, the 'front-matter' above this text should be modified to reflect your actual information.  An explanation of each of the front-matter items is below:
+OWASP Guwahati is a local chapter of OWASP for Guwahati,Assam. Here we can discuss on any topic, share tools and techniques related to web application security. The main aim of creating this community to bring all the cyber security expert together So let’s get together and move for securing web applications..
+
+We have created a group and page in facebook for better communication and better knowledge sharin
 
 <ul>
 <li>layout: This is the layout used by project and chapter pages.  You should leave this value as col-sidebar</li>
