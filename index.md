@@ -13,21 +13,6 @@ Postal Code: 781006
 <div style='color:black;'>
 
 OWASP Guwahati is a local chapter of OWASP for Guwahati,Assam. Here we discuss various security & vulnerabilities of web application, API, Mobile & other devices.We  share tools and techniques related to web application security. The main aim of creating this community to bring all the cyber security expert together. So let’s get together and move for securing web applications.OWASp Guwahati chapter leader are Lakshya Jyoti Bora(mailto:lakshya.jyotiborah@owasp.org) And Pallab jyoti Borah(mailto:pallab.jyotiborah@owasp.org)
-
-
-
-<ul>
-<li>layout: This is the layout used by project and chapter pages.  You should leave this value as col-sidebar</li>
-
-<li>title: This is the title of your project or chapter page, usually the name.  For example, OWASP Zed Attack Proxy or OWASP Baltimore</li>
-
-<li>tags: This is a space-delimited list of tags you associate with your project or chapter.  If you are using tabs, at least one of these tags should be unique in order to be used in the tabs files (an example tab is included in this repo) </li>
-
-<li>region: This is the region you are in according to our data</li>
-
-<li>meetup-group: This is the name of your meetup group, usually in the form of OWASP-chapter.  By putting these details here, the section below labeled 'Next Meeting/Event' will get automatically populated with your upcoming meetup events.</li>
-</ul>
-
 </div>
 
 ## Welcome
