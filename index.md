@@ -10,7 +10,7 @@ meetup-group: Owasp_Guwahati
 
 <div style='color:red;'>
 
-OWASP Guwahati is a local chapter of OWASP for Guwahati,Assam. Here we can discuss on any topic, share tools and techniques related to web application security. The main aim of creating this community to bring all the cyber security expert together So let’s get together and move for securing web applications..
+OWASP Guwahati is a local chapter of OWASP for Guwahati,Assam. Here we discuss various security of web application, API, Mobile & others, share tools and techniques related to web application security. The main aim of creating this community to bring all the cyber security expert together So let’s get together and move for securing web applications..
 
 We have created a group and page in facebook for better communication and better knowledge sharin
 
