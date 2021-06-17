@@ -1,5 +1,6 @@
-###OWASP Guwahati Information
-* Provide Group Information
+### Chapter Information
+![OWASP www-chapter-owasp-guwahati](assets/images/owasp_ghy.jpg
+"OWASP guwhati Chapter")
 
 ### Social Links
 * [Facebook](https://www.facebook.com/OWASP-Guwahati-104276475234433)
