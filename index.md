@@ -36,7 +36,9 @@ OWASP Guwahati Chapters is led by leaders in accordance with the [Chapters Polic
 
 Everyone is welcome and encouraged to participate in our [Projects](/projects/), [Local Chapters](/chapters/), [Events](/events/), [Online Groups](https://groups.google.com/a/owasp.com/){:target='_blank'}, and [Community Slack Channel](https://owasp.slack.com/){:target='_blank'}.We also encourage you to be [become a member](/membership/) or consider a [donation](/donate/) to support our ongoing work.
 
-Next Meeting/Event <!-- You should keep this section as it will populate your meetup events -->
----------------------
-{% include chapter_events.html group=page.meetup-group %}
+## Next Meetup Information
+We are starting an Introductory weekend meetup with all the enthusiasts on June 19, 2021 8:00 PM IST.All the volunteers are heartly welcome and don't forget to register yourself for today's introductory talk with the link below.
+
+Register :
+http://bit.ly/owasp-ghy-1
 
