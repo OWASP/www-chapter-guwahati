@@ -39,6 +39,7 @@ Everyone is welcome and encouraged to participate in our [Projects](/projects/),
 ## Next Meetup Information
 We are starting an Introductory weekend meetup with all the enthusiasts on June 19, 2021 8:00 PM IST.All the volunteers are heartly welcome and don't forget to register yourself for today's introductory talk with the link below.
 
-Register :
-http://bit.ly/owasp-ghy-1
+REGISTER FOR THE EVENT:
+<a href="http://bit.ly/owasp-ghy-1">REGISTER NOW</a>
+
 
