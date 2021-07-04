@@ -37,6 +37,11 @@ OWASP Guwahati Chapters is led by leaders in accordance with the [Chapters Polic
 Everyone is welcome and encouraged to participate in our [Projects](/projects/), [Local Chapters](/chapters/), [Events](/events/), [Online Groups](https://groups.google.com/a/owasp.com/){:target='_blank'}, and [Community Slack Channel](https://owasp.slack.com/){:target='_blank'}.We also encourage you to be [become a member](/membership/) or consider a [donation](/donate/) to support our ongoing work.
 
 ## Next Meetup Information
+
+OWASP Guwahati is coming up with one of the most exciting session on “Science to Cyber Security” by Abida Shariff who is a Team Leader at Peril, & a Penetration Tester. Join us at 8 PM IST on 4th July 2021. All the interested individuals can register and join us through this link
+REGISTER FOR THE EVENT:
+<a href="https://bit.ly/owaspevent">REGISTER NOW</a>
+
 OWASP Guwahati is organising the "Intro to Computer Forensic " webinar on 27th June, 2021 at 7:30 PM.Take Part in this webinar and expand your knowledge in CyberSecurity and threats that are out there waiting for us.
 
 REGISTER FOR THE EVENT:
