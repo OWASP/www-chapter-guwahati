@@ -38,6 +38,11 @@ Everyone is welcome and encouraged to participate in our [Projects](/projects/),
 
 ## Next Meetup Information
 
+OWASP Guwahati is coming up with OWASP Top 10 theory to practical session at 8 PM IST on 11th July 2021. All the interested individuals can register and join us through this link <br>
+
+REGISTER FOR THE EVENT:
+<a href="https://forms.gle/BdxX3jC4gFKgKKz68">REGISTER NOW</a>
+
 OWASP Guwahati is coming up with one of the most exciting session on “Science to Cyber Security” by Abida Shariff who is a Team Leader at Peril, & a Penetration Tester. Join us at 8 PM IST on 4th July 2021. All the interested individuals can register and join us through this link <br>
 
 REGISTER FOR THE EVENT:
