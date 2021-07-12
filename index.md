@@ -34,16 +34,19 @@ Everyone is welcome and encouraged to participate in our Projects, Local Chapter
 
 OWASP Guwahati Chapters is led by leaders in accordance with the [Chapters Policy](/www-policy/operational/chapters). Financial contributions should only be made online using the authorized online donation button. 
 
-Everyone is welcome and encouraged to participate in our [Projects](/projects/), [Local Chapters](/chapters/), [Events](/events/), [Online Groups](https://groups.google.com/a/owasp.com/){:target='_blank'}, and [Community Slack Channel](https://owasp.slack.com/){:target='_blank'}.We also encourage you to be [become a member](/membership/) or consider a [donation](/donate/) to support our ongoing work.
 
-## Next Meetup Information
+## Upcoming Event
+OWASP Guwahati is organising the "Deep Dive Into IOT Security" webinar on 28th July, 2021 at 7:30 PM. By Mr. Veerababu Penugonda also known as Mr-IoT .Take Part in this webinar and expand your knowledge in CyberSecurity and threats that are out there waiting for us.
 
-OWASP Guwahati is coming up with OWASP Top 10 theory to practical session at 8 PM IST on 11th July 2021. All the interested individuals can register and join us through this link <br>
+REGISTER FOR THE EVENT:
+<a href="https://lnkd.in/ecW4VU4">REGISTER NOW</a>
+## Previous Meetings
+OWASP Top 10 theory to practical session at 8 PM IST on 11th July 2021. All the interested individuals can register and join us through this link <br>
 
 REGISTER FOR THE EVENT:
 <a href="https://forms.gle/BdxX3jC4gFKgKKz68">REGISTER NOW</a>
 
-OWASP Guwahati is coming up with one of the most exciting session on “Science to Cyber Security” by Abida Shariff who is a Team Leader at Peril, & a Penetration Tester. Join us at 8 PM IST on 4th July 2021. All the interested individuals can register and join us through this link <br>
+ “Science to Cyber Security” by Abida Shariff who is a Team Leader at Peril, & a Penetration Tester. Join us at 8 PM IST on 4th July 2021. All the interested individuals can register and join us through this link <br>
 
 REGISTER FOR THE EVENT:
 <a href="https://bit.ly/owaspevent">REGISTER NOW</a>
