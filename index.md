@@ -36,7 +36,7 @@ OWASP Guwahati Chapters is led by leaders in accordance with the [Chapters Polic
 
 
 ## Upcoming Event
-OWASP Guwahati is organising the "Deep Dive Into IOT Security" webinar on 28th July, 2021 at 7:30 PM. By Mr. Veerababu Penugonda also known as Mr-IoT .Take Part in this webinar and expand your knowledge in CyberSecurity and threats that are out there waiting for us.
+OWASP Guwahati is organising the "Deep Dive Into IOT Security" webinar on 18th July, 2021 at 7:30 PM. By Mr. Veerababu Penugonda also known as Mr-IoT .Take Part in this webinar and expand your knowledge in CyberSecurity and threats that are out there waiting for us.
 
 REGISTER FOR THE EVENT:
 <a href="https://lnkd.in/ecW4VU4">REGISTER NOW</a>
