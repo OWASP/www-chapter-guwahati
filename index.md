@@ -4,7 +4,7 @@ layout: col-sidebar
 title: OWASP Guwahati
 tags: owasp guwahati
 region: Asia
-meetup-group: Owasp_Guwahati
+meetup-group: owasp-guwahati
 Country: India
 Postal Code: 781006
 
@@ -36,6 +36,9 @@ OWASP Guwahati Chapters is led by leaders in accordance with the [Chapters Polic
 
 
 ## Upcoming Event
+
+{% include chapter_events.html group=page.meetup-group %}
+
 OWASP Guwahati is organising the "Deep Dive Into IOT Security" webinar on 18th July, 2021 at 7:30 PM. By Mr. Veerababu Penugonda also known as Mr-IoT .Take Part in this webinar and expand your knowledge in CyberSecurity and threats that are out there waiting for us.
 
 REGISTER FOR THE EVENT:
