@@ -6,15 +6,15 @@
 * [Facebook](https://www.facebook.com/OWASP-Guwahati-104276475234433)
 * [Instagram](https://www.instagram.com/owasp_guwahati/)
 * [Twitter](#)
-* [Meetup](#)
+* [Meetup](https://www.meetup.com/owasp-guwahati/)
 
 ### Become speaker
 
-* [Speaker Agreement](https://www.owasp.org/index.php/Speaker_Agreement)
+* [Speaker Agreement](https://owasp.org/www-policy/)
 
 
 ### useful Links
 * [Become a Member](https://www.owasp.org/index.php/Membership)
 
-* [Code of Conduct](https://www.owasp.org/index.php/Governance/Conference_Policies)
+* [Code of Conduct](https://owasp.org/www-policy/)
 
