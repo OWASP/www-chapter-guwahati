@@ -35,29 +35,19 @@ Everyone is welcome and encouraged to participate in our Projects, Local Chapter
 OWASP Guwahati Chapters is led by leaders in accordance with the [Chapters Policy](/www-policy/operational/chapters). Financial contributions should only be made online using the authorized online donation button. 
 
 
-## Upcoming Event
+### Upcoming Event
 
 {% include chapter_events.html group=page.meetup-group %}
 
-OWASP Guwahati is organising the "Introduction to Digital Forensic" webinar on 25th July, 2021 at 8:00 PM. By Mr. Harshita C jadav CEO at keycybr  .Take Part in this webinar and expand your knowledge in CyberSecurity and threats that are out there waiting for us.
-
-REGISTER FOR THE EVENT
-## Previous Meetings
-
-OWASP Guwahati is organising the "Deep Dive Into IOT Security" webinar on 18th July, 2021 at 7:30 PM. By Mr. Veerababu Penugonda also known as Mr-IoT .
-
-Ended
-
-OWASP Top 10 theory to practical session at 8 PM IST on 11th July 2021. All the interested individuals can register and join us through this link <br>
-
-Ended
-
- “Science to Cyber Security” by Abida Shariff who is a Team Leader at Peril, & a Penetration Tester. Join us at 8 PM IST on 4th July 2021. All the interested individuals can register and join us through this link <br>
-
-Ended
-
-OWASP Guwahati is organising the "Intro to Computer Forensic " webinar on 27th June, 2021 at 7:30 PM.Take Part in this webinar and expand your knowledge in CyberSecurity and threats that are out there waiting for us.
-
-Ended
+OWASP Guwahati is organising the "Introduction to Digital Forensic" webinar on 25th July, 2021 at 8:00 PM. By Mr. Harshita C Jadav CEO at keycybr.
+We welcome you all to join and help this community to grow more.
 
 
+### Previous Meetings
+
+| Title | Meetup URL | Date |
+| --- | --- | --- |
+| OWASP Guwahati "Deep Dive into IOT Security" by Mr. Veerababu (Mr-IoT) | <https://www.meetup.com/owasp-guwahati/> | 18th July, 2021 (8:00 PM IST) |
+| OWASP Guwahati "OWASP Top 10 theory to practical session"  | <https://www.meetup.com/owasp-guwahati/> | 11th July, 2020 (8:00 PM IST) |
+| OWASP Guwahati “Science to Cyber Security” by Abida Shariff | <https://www.meetup.com/owasp-guwahati/> | 4th July, 2020 (8:00 PM IST) |
+| OWASP Guwahati "Intro to Computer Forensics"  | <https://www.meetup.com/owasp-guwahati/> | 27th June, 2020 (8:00 PM IST) |
