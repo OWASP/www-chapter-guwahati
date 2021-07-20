@@ -43,23 +43,21 @@ OWASP Guwahati is organising the "Deep Dive Into IOT Security" webinar on 18th J
 
 REGISTER FOR THE EVENT
 ## Previous Meetings
-<td>
+
 OWASP Guwahati is organising the "Deep Dive Into IOT Security" webinar on 18th July, 2021 at 7:30 PM. By Mr. Veerababu Penugonda also known as Mr-IoT .Take Part in this webinar and expand your knowledge in CyberSecurity and threats that are out there waiting for us.
+
+Ended
 
 OWASP Top 10 theory to practical session at 8 PM IST on 11th July 2021. All the interested individuals can register and join us through this link <br>
 
-REGISTER FOR THE EVENT:
-<a href="https://forms.gle/BdxX3jC4gFKgKKz68">REGISTER NOW</a>
+Ended
 
  “Science to Cyber Security” by Abida Shariff who is a Team Leader at Peril, & a Penetration Tester. Join us at 8 PM IST on 4th July 2021. All the interested individuals can register and join us through this link <br>
 
-REGISTER FOR THE EVENT:
-<a href="https://bit.ly/owaspevent">REGISTER NOW</a>
+Ended
 
 OWASP Guwahati is organising the "Intro to Computer Forensic " webinar on 27th June, 2021 at 7:30 PM.Take Part in this webinar and expand your knowledge in CyberSecurity and threats that are out there waiting for us.
 
-REGISTER FOR THE EVENT:
-<a href="https://lnkd.in/ecW4VU4">REGISTER NOW</a>
- </td>
+Ended
 
 
