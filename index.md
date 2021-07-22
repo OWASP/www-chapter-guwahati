@@ -45,7 +45,7 @@ Whether you peeps are from another field or just a beginner in the field of Secu
 for this wonderful session and do join us!
 
 
-### Previous Meetings
+### Previous Events
 
 | Title | Meetup URL | Date |
 | --- | --- | --- |
