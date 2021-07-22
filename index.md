@@ -39,8 +39,10 @@ OWASP Guwahati Chapters is led by leaders in accordance with the [Chapters Polic
 
 {% include chapter_events.html group=page.meetup-group %}
 
-OWASP Guwahati is organising the "Introduction to Digital Forensic" webinar on 25th July, 2021 at 8:00 PM. By Mr. Harshita C Jadav CEO at keycybr.
-We welcome you all to join and help this community to grow more.
+OWASP Guwahati has come up with another tech extravaganza. We are honoured to have a brilliant speaker Harshita C. Jadhav who is the Founder & CEO at keycybr. She will be live with us on 25 July, 2021 and this upcoming session will be on the 
+topic: “INTRODUCTION TO DIGITAL FORENSICS”. 
+Whether you peeps are from another field or just a beginner in the field of Security, and looking to explore your passion in this field, you all are heartily welcome. Mark the date in your agenda 
+for this wonderful session and do join us!
 
 
 ### Previous Meetings
