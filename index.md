@@ -39,10 +39,11 @@ OWASP Guwahati Chapters is led by leaders in accordance with the [Chapters Polic
 
 {% include chapter_events.html group=page.meetup-group %}
 
-OWASP Guwahati has come up with another tech extravaganza. We are honoured to have a brilliant speaker Harshita C. Jadhav who is the Founder & CEO at keycybr. She will be live with us on 25 July, 2021 and this upcoming session will be on the 
-topic: “INTRODUCTION TO DIGITAL FORENSICS”. 
-Whether you peeps are from another field or just a beginner in the field of Security, and looking to explore your passion in this field, you all are heartily welcome. Mark the date in your agenda 
-for this wonderful session and do join us!
+OWASP Guwahati has come up with another tech extravaganza. As we all know, with the advancement in the digital space, online frauds have been increasing over the past decades with a rapid pace. 
+So,it's necessary to be aware of such scams going on in the market . 
+**Mr VrajeshGujarathi**  will be live with us on 1st August at 8:00 to 9:00 to throw some light on the online frauds and the preventive measures one should consider to prevent and curb such practices. 
+
+To Register-: http://meetup.com/owasp-guwahati/
 
 
 ### Previous Events
