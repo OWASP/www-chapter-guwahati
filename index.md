@@ -43,7 +43,7 @@ OWASP Guwahati has come up with another tech extravaganza. Android pentesting ap
 A guide to start Android pentesting and its methodology. 
 **Mayur Parmar**  will be live with us on 20th August at 7:30 to 8:30 . 
 
-To Register-: Live soon
+To Register-: <https://www.meetup.com/owasp-guwahati/events/287859185/>
 
 
 ### Previous Events
