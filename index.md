@@ -39,17 +39,16 @@ OWASP Guwahati Chapters is led by leaders in accordance with the [Chapters Polic
 
 {% include chapter_events.html group=page.meetup-group %}
 
-OWASP Guwahati has come up with another tech extravaganza. Android pentesting approach 101 . 
-A guide to start Android pentesting and its methodology. 
-**Mayur Parmar**  will be live with us on 20th August at 7:30 to 8:30 . 
+Coming soon...  
 
-To Register-: <https://www.meetup.com/owasp-guwahati/events/287859185/>
+To Register-: <https://www.meetup.com/owasp-guwahati/>
 
 
 ### Previous Events
 
 | Title | Meetup URL | Date |
 | --- | --- | --- |
+| OWASP Guwahati "Android Pentesting approach 101" by Mayur Parmar  | <https://www.meetup.com/owasp-guwahati/> | 20th August, 2022 (7:30 PM IST)| Over |
 | OWASP Guwahati "online frauds and the preventive measures" by Mr VrajeshGujarathi  | <https://www.meetup.com/owasp-guwahati/> | 18th July, 2021 (8:00 PM IST)| Over |
 | OWASP Guwahati "Deep Dive into IOT Security" by Mr. Veerababu (Mr-IoT) | <https://www.meetup.com/owasp-guwahati/> | 18th July, 2021 (8:00 PM IST)| Over |
 | OWASP Guwahati "OWASP Top 10 theory to practical session"  | <https://www.meetup.com/owasp-guwahati/> | 11th July, 2020 (8:00 PM IST)| Over |
