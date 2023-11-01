@@ -5,14 +5,14 @@ title: OWASP Guwahati
 tags: owasp guwahati
 region: Asia
 meetup-group: owasp-guwahati
-Country: India
+country: India
 Postal Code: 781006
 
 ---
 
 <div style='color:black;'>
 
-OWASP Guwahati is a local chapter of OWASP for Guwahati,Assam. Here we discuss various security & vulnerabilities of web application, API, Mobile & other devices.We  share tools and techniques related to web application security. The main aim of creating this community to bring all the cyber security expert together. So let’s get together and move for securing web applications.
+OWASP Guwahati is a local chapter of OWASP for Guwahati, Assam. Here we discuss various security & vulnerabilities of web application, API, Mobile & other devices.We  share tools and techniques related to web application security. The main aim of creating this community to bring all the cyber security expert together. So let’s get together and move for securing web applications.
 
 </div>
 
@@ -26,7 +26,7 @@ We welcome all the security & pentesters to this amazing community. You can join
 OWASP Guwahati Chapter was founded by a group of security passionated engineers to share the knowledge for cyber security.We are organising meet ups and webinar on web,API, Mobile & Cloud security.
 
 ## Participation
-The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security.  
+The Open Worldwide Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects, tools, documents, forums, and chapters are free and open to anyone interested in improving application security.  
 
 To be a SPEAKER at OWASP Guwahati Chapter,simply review the [speaker agreement](/www-policy/legal/speaker-agreement) and then contact our chapter leaders with details of what OWASP Project, independent research, or related software security topic you would like to present.
 
